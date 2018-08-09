@@ -3,7 +3,7 @@
 <h2>Build</h2>
 <ol>
 <li>Download and install the <a href="https://www.juce.com" rel="nofollow">latest JUCE release</a>.</li>
-<li>Use the Projucer to open Oscillosc.jucer and export the project to your IDE (tested only on Visual Studio and XCode).</li>
+<li>Use the Projucer to open oscillosc.jucer and export the project to your IDE (tested only on Visual Studio and XCode).</li>
 <li>Compile in Release mode x64.</li>
 </ol>
 
