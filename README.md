@@ -1,5 +1,6 @@
 # oscillosc
 <p>Simple oscilloscope application written in C++(JUCE). Useful for visualizing a system's input lines such as soundcard line-in or microphone input.</p>
+
 ![img](https://i.imgur.com/d76hiYr.png)
 <a href="https://raw.githubusercontent.com/nicolaspasqualis/oscillosc/master/Docs/oscillosc%201.png" rel="nofollow">+</a>
 
